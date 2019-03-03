@@ -1,0 +1,46 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+/src/main/resources/properties/buildinfo.properties
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+### eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+target/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+.idea/
+/bin/**
+/log/**
+/out/**
+/.idea/**
+
+**/node_modules/
+**/_book/
+
