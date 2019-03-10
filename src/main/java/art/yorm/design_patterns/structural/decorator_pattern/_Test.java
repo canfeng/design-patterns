@@ -1,5 +1,8 @@
 package art.yorm.design_patterns.structural.decorator_pattern;
 
+/**
+ * 装饰器模式
+ */
 public class _Test {
     public static void main(String[] args) {
 
