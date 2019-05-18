@@ -1,4 +1,4 @@
-package art.yorm.design_patterns.behavior.state_pattern;
+package art.yorm.design_patterns.behavior.state_pattern.no_transition;
 
 /**
  * 异常预警状态
